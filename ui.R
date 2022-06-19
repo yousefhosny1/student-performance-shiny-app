@@ -86,7 +86,7 @@ ui <- fluidPage(
              ),
              tabPanel("About",tags$label(h3("Product Name"),h4("Will he score? - Prediction of student performance in secondary education", style = "color:black"),
              h3("Introduction"),h4("Education is a key factor for achieving a long-term economic progress. Past studies has shown that student achievement is highly influenced by past evaluations, however recent studies has also shown that there are also other relevant features such as health condition, mother's education and alcohol consumption. Hence, we built this product which is a student prediction tool that improves the quality of education and enhances school resource management.", style = "color:black"),
-             h3("Instruction"),h4("Please choose the suitable options or rate the features.", style = "color:black"),
+             h3("Instruction"),h4("There will be 10 questions asking for the student's information. Please fill in the information of the student for each question. After fill in, please press the submit button, the result will be shown at the right side.", style = "color:black"),
              h3("Contact"),h4("Any inquiries on the use of the application and comments on the design and functionalities of the application should be sent to Group Data Miner.", style = "color:black"),
              h3("Data Source"),h4("P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.", style = "color:black")))
   )
